@@ -1,0 +1,24 @@
+PODS:
+  - iOSDropDown (0.4.0)
+  - SideMenu (6.5.0)
+  - SkyFloatingLabelTextField (4.0.0)
+
+DEPENDENCIES:
+  - iOSDropDown
+  - SideMenu
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - SideMenu
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+
+PODFILE CHECKSUM: ca579752d32f19349608eb6f06c724808c266af4
+
+COCOAPODS: 1.12.0
